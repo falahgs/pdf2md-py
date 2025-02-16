@@ -35,7 +35,7 @@ A powerful web application that converts PDF documents to Markdown format using 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/falahgs/pdf2md.git
+git clone https://github.com/falahgs/pdf2md-py.git
 cd pdf2md-py
 ```
 
